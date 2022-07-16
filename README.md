@@ -1,4 +1,4 @@
-# QR-CODE
+# DST_Aeiou-Map (7/17/2022)
 ## วิธีเปิดเชิพผ่านตัวเกม(ไม่ใช่ Dedicated server)
 
 ## 
