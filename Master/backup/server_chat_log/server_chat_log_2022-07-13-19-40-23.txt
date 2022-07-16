@@ -1,0 +1,26 @@
+[00:00:32]: [Join Announcement] zidaeiou
+[00:00:53]: [Join Announcement] Chicken killer
+[00:01:01]: [Join Announcement] palapola123
+[00:01:06]: [Join Announcement] Rikutosk
+[00:01:14]: [Join Announcement] eating_cat
+[00:07:29]: [Join Announcement] YamanekoZa
+[00:22:49]: [Skin Announcement] YamanekoZa legs_wurt_formal
+[00:23:17]: [Skin Announcement] Chicken killer goldenaxe_invisible
+[00:25:04]: [Skin Announcement] eating_cat body_willow_gladiator
+[00:28:18]: [Skin Announcement] palapola123 legs_wortox_pirate
+[00:50:02]: [Skin Announcement] zidaeiou body_wormwood_victorian
+[00:50:06]: [Skin Announcement] Rikutosk wilson_beard_pigguard
+[01:22:02]: [Skin Announcement] palapola123 feet_sandals_blue_catcoon
+[01:33:00]: [Join Announcement] Charlotte Akira
+[01:38:38]: [Skin Announcement] Chicken killer hand_wathgrithr_scarecrow
+[01:39:44]: [Skin Announcement] YamanekoZa backpack_buckle_navy_phthalo
+[01:43:35]: [Skin Announcement] eating_cat feet_wes_victorian
+[01:53:31]: [Death Announcement] Chicken killer was killed by the passage of time. She became a spooky ghost!
+[01:53:35]: [Resurrect Announcement] Chicken killer was resurrected by Fire Pit.
+[01:56:22]: [Leave Announcement] Chicken killer
+[01:56:24]: [Leave Announcement] zidaeiou
+[01:56:24]: [Leave Announcement] YamanekoZa
+[01:56:24]: [Leave Announcement] eating_cat
+[01:56:24]: [Leave Announcement] palapola123
+[01:56:24]: [Leave Announcement] Rikutosk
+[01:56:24]: [Leave Announcement] Charlotte Akira

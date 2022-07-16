@@ -1,0 +1,24 @@
+[00:00:26]: [Join Announcement] zidaeiou
+[00:00:42]: [Join Announcement] iowa
+[00:01:13]: [Join Announcement] Rikutosk
+[00:01:23]: [Join Announcement] palapola123
+[00:01:31]: [Join Announcement] eating_cat
+[00:01:43]: [Join Announcement] Chicken killer
+[00:02:33]: [Leave Announcement] iowa
+[00:03:40]: [Join Announcement] iowa
+[00:05:37]: [Leave Announcement] eating_cat
+[00:07:14]: [Join Announcement] eating_cat
+[00:08:14]: [Leave Announcement] eating_cat
+[00:10:43]: [Join Announcement] eating_cat
+[00:11:27]: [Death Announcement] eating_cat was killed by Tallbird. He became a spooky ghost!
+[00:11:31]: [Death Announcement] Rikutosk was killed by Spider. She became a spooky ghost!
+[00:11:52]: [Leave Announcement] eating_cat
+[00:12:09]: [Leave Announcement] Rikutosk
+[00:12:38]: [Join Announcement] eating_cat
+[00:12:44]: [Join Announcement] Rikutosk
+[00:13:42]: [Leave Announcement] Rikutosk
+[00:13:43]: [Leave Announcement] zidaeiou
+[00:13:44]: [Leave Announcement] Chicken killer
+[00:13:44]: [Leave Announcement] eating_cat
+[00:13:44]: [Leave Announcement] iowa
+[00:13:44]: [Leave Announcement] palapola123

@@ -1,0 +1,19 @@
+[00:00:27]: [Join Announcement] zidaeiou
+[00:02:07]: [Join Announcement] Chicken killer
+[00:02:08]: [Join Announcement] Rikutosk
+[00:02:49]: [Join Announcement] YamanekoZa
+[00:05:28]: [Skin Announcement] zidaeiou wilson_beard_shadow
+[00:05:28]: [Join Announcement] iowa
+[00:07:14]: [Join Announcement] Yummy!!!
+[00:08:12]: [Death Announcement] Chicken killer was killed by the passage of time. She became a spooky ghost!
+[00:08:36]: [Skin Announcement] Rikutosk feet_buckle_shoe_navy_phthalo
+[00:08:41]: [Resurrect Announcement] Chicken killer was resurrected by Fire Pit.
+[00:21:26]: [Join Announcement] palapola123
+[00:30:17]: [Leave Announcement] palapola123
+[00:30:53]: [Join Announcement] palapola123
+[00:39:35]: [Death Announcement] Chicken killer was killed by the passage of time. She became a spooky ghost!
+[00:40:30]: [Resurrect Announcement] Chicken killer was resurrected by Fire Pit.
+[00:42:11]: [Death Announcement] Chicken killer was killed by the passage of time. She became a spooky ghost!
+[00:43:05]: [Resurrect Announcement] Chicken killer was resurrected by Fire Pit.
+[00:46:27]: [Leave Announcement] palapola123
+[00:46:37]: [Leave Announcement] zidaeiou
